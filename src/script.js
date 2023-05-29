@@ -1,3 +1,7 @@
 function sayHi() {
-    console.log('Hello!')
+    console.log('Hello!');
+}
+
+function sayBy() {
+    console.log('By!');
 }
